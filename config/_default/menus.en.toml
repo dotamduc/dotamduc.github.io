@@ -13,5 +13,17 @@ pageRef = "pwn"
 identifier = "5zpHfLiKz6"
 weight = 9_999
 
+[[main]]
+name = "FOR"
+pageRef = "for"
+identifier = "xnHtsqNyAx"
+weight = 9_999
+
+[[main]]
+name = "RE"
+pageRef = "re"
+identifier = "4DSpCbyW3c"
+weight = 9_999
+
 [[footer]]
 none = "none"
