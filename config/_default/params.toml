@@ -19,8 +19,8 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-defaultBackgroundImage = "hacker hacking GIF.gif.mp4"
-defaultFeaturedImage = "photo_2025-10-23_20-03-59 (2).jpg"
+defaultBackgroundImage = "Just Do It Shia GIF by MOODMAN.gif"
+defaultFeaturedImage = "Just Do It Shia GIF by MOODMAN.gif"
 
 [header]
 layout = "basic"
@@ -42,7 +42,7 @@ cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
-homepageImage = "Just-Do-It-Shia-GIF-by-MOODMAN.svg"
+homepageImage = "Just Do It Shia GIF by MOODMAN.gif"
 
 [article]
 showDate = true

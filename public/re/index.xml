@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Res on MSEC</title>
-    <link>http://localhost:56580/re/</link>
+    <link>http://localhost:1313/re/</link>
     <description>Recent content in Res on MSEC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 MSEC</copyright>
-    <atom:link href="http://localhost:56580/re/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/re/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Write-up for Chatbot CSCV2025</title>
-      <link>http://localhost:56580/re/1761232948830-chatbot/</link>
+      <link>http://localhost:1313/re/1761232948830-chatbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:56580/re/1761232948830-chatbot/</guid>
+      <guid>http://localhost:1313/re/1761232948830-chatbot/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:56580/re/1761232948830-chatbot/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/re/1761232948830-chatbot/featured.png" />
     </item>
     
     <item>
       <title>Write-up for Reverse Master CSCV2025 </title>
-      <link>http://localhost:56580/re/1761228753586-re/</link>
+      <link>http://localhost:1313/re/1761228753586-re/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:56580/re/1761228753586-re/</guid>
+      <guid>http://localhost:1313/re/1761228753586-re/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:56580/re/1761228753586-re/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/re/1761228753586-re/featured.png" />
     </item>
     
     <item>
       <title>Write-up REEZS</title>
-      <link>http://localhost:56580/re/1761234068225-reezs/</link>
+      <link>http://localhost:1313/re/1761234068225-reezs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:56580/re/1761234068225-reezs/</guid>
+      <guid>http://localhost:1313/re/1761234068225-reezs/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:56580/re/1761234068225-reezs/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/re/1761234068225-reezs/featured.png" />
     </item>
     
   </channel>
