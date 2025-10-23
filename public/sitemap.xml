@@ -26,6 +26,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/web/1761228033953-xyz/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/web/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
