@@ -20,7 +20,7 @@ verification = { }
 rssnext = { }
 advertisement = { }
 defaultBackgroundImage = "Just Do It Shia GIF by MOODMAN.gif"
-defaultFeaturedImage = "Just Do It Shia GIF by MOODMAN.gif"
+defaultFeaturedImage = "anh.jpg"
 
 [header]
 layout = "basic"
