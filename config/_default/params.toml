@@ -42,7 +42,7 @@ cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
-homepageImage = "Just Do It Shia GIF by MOODMAN.gif"
+homepageImage = "Just-Do-It-Shia-GIF-by-MOODMAN.svg"
 
 [article]
 showDate = true
