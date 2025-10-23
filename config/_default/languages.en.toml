@@ -1,0 +1,16 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "MSEC"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "photo_2025-10-23_20-03-59 (2).jpg"
+
+["params.author"]
+name = "MSEC"
+image = "photo_2025-10-23_20-03-59.jpg"

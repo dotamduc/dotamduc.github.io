@@ -1,0 +1,17 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "WEB"
+pageRef = "web"
+identifier = "egsBr7ueFh"
+weight = 9_999
+
+[[main]]
+name = "PWN"
+pageRef = "pwn"
+identifier = "5zpHfLiKz6"
+weight = 9_999
+
+[[footer]]
+none = "none"
