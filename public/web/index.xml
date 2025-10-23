@@ -7,16 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 MSEC</copyright>
-    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/web/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>WEB</title>
+      <title>Welcome to HackMD!</title>
       <link>http://localhost:1313/web/1761225979079-web/</link>
-      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/web/1761225979079-web/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761225979079-web/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Welcome to HackMD!</title>
+      <link>http://localhost:1313/web/1761227510853-abc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/1761227510853-abc/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761227510853-abc/featured.png" />
     </item>
     
   </channel>

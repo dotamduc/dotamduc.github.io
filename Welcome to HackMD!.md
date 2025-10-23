@@ -64,9 +64,9 @@ Every personal workspace has...
 3. A list of all the teams you've joined.
 4. Billing settings.
 5. A space to...
-    - Change your language preference.
-    - Contact the HackMD team.
-    - View the Terms of Use.
+	- Change your language preference.
+	- Contact the HackMD team.
+	- View the Terms of Use.
 
 ## Create a note
 Creating your first note takes only a few seconds.
