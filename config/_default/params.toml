@@ -1,4 +1,4 @@
-colorScheme = "fire"
+colorScheme = "bloody"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 enableA11y = false
@@ -15,14 +15,12 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 firebase = { }
 fathomAnalytics = { }
 umamiAnalytics = { }
-selineAnalytics = { }
 buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
 defaultBackgroundImage = "Just Do It Shia GIF by MOODMAN.gif"
 defaultFeaturedImage = "photo_2025-10-23_20-03-59 (2).jpg"
-smartTOC = ""
 
 [header]
 layout = "basic"
@@ -44,7 +42,7 @@ cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
-homepageImage = "photo_2025-10-23_20-03-59.jpg"
+homepageImage = "Just Do It Shia GIF by MOODMAN.gif"
 
 [article]
 showDate = true

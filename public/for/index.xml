@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fors on MSEC</title>
-    <link>http://localhost:1313/for/</link>
+    <link>http://localhost:56580/for/</link>
     <description>Recent content in Fors on MSEC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 MSEC</copyright>
-    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/for/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:56580/for/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>FOR</title>
-      <link>http://localhost:1313/for/1761228735377-for/</link>
+      <link>http://localhost:56580/for/1761228735377-for/</link>
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/for/1761228735377-for/</guid>
+      <guid>http://localhost:56580/for/1761228735377-for/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761228735377-for/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:56580/for/1761228735377-for/featured.png" />
     </item>
     
   </channel>
