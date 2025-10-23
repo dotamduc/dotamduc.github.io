@@ -1,4 +1,4 @@
-colorScheme = "blowfish"
+colorScheme = "fire"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 enableA11y = false
@@ -20,8 +20,9 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-defaultBackgroundImage = "photo_2025-10-23_20-03-59.jpg"
+defaultBackgroundImage = "Just Do It Shia GIF by MOODMAN.gif"
 defaultFeaturedImage = "photo_2025-10-23_20-03-59 (2).jpg"
+smartTOC = ""
 
 [header]
 layout = "basic"

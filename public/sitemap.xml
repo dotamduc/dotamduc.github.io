@@ -3,60 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:61210/for/1761228735377-for/</loc>
+    <loc>http://localhost:1313/for/1761228735377-for/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:61210/for/</loc>
+    <loc>http://localhost:1313/for/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:61210/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:61210/pwn/1761226116132-abc/</loc>
+    <loc>http://localhost:1313/pwn/1761226116132-abc/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:61210/web/1761228033953-xyz/</loc>
+    <loc>http://localhost:1313/web/1761228033953-xyz/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:61210/pwn/</loc>
+    <loc>http://localhost:1313/pwn/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:61210/re/</loc>
+    <loc>http://localhost:1313/re/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:61210/web/</loc>
+    <loc>http://localhost:1313/web/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:61210/web/1761227510853-abc/</loc>
+    <loc>http://localhost:1313/web/1761227510853-abc/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:61210/re/1761232948830-chatbot/</loc>
+    <loc>http://localhost:1313/re/1761232948830-chatbot/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:61210/re/1761228753586-re/</loc>
+    <loc>http://localhost:1313/re/1761228753586-re/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/re/1761234068225-reezs/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
